@@ -1,2 +1,5 @@
+# from https://forums.unrealengine.com/development-discussion/engine-source-github/38225-which-project-folders-are-important
 Saved/
+Binaries/
 Intermediate/
+Build/**/FileOpenOrder/
